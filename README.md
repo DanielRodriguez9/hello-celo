@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello Celo 
 Say hello to Web3! This project contains a simple smart contract written in Solidity, deployed on the Celo Alfajores testnet using Foundry. Built as part of the Celo Colombia Bootcamp.
 
@@ -87,4 +88,11 @@ hello-celo/
 - [Foundry Book](https://book.getfoundry.sh/)
 - [Celo Docs](https://docs.celo.org/)
 - [CeloScan Alfajores](https://alfajores.celoscan.io/)
+
+=======
+```shell
+$ anvil
+```
+
+### Deploy
 
